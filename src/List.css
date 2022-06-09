@@ -1,0 +1,12 @@
+.data_card {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+    padding: 3em;
+}
+
+.card {
+    margin: 0px 10px 20px 0px;
+}
