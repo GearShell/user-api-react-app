@@ -17,7 +17,6 @@ function List() {
           "app-id": "628f806631241c612e9bee76"
       }}).then((res) => {
           setResult(res.data.data);
-          console.log(res.data.data[0]);
       })
     }
 
