@@ -36,7 +36,7 @@ function List() {
         <div>
           <h1>All User List</h1>
           
-          <div className='data_card'>0
+          <div className='data_card'>
             {
             result.map((value) => {
               return (
